@@ -11,14 +11,16 @@ const quotes = [
   "“Clarity is not found by thinking forever. It is built through action.”",
   "“Your future is hidden inside your repeated behavior.”",
   "“The secret to getting ahead is getting started.”",
-  "“The difference between successful people and unsuccessful people is that successful people are willing to do what unsuccessful people are not.”",
-  "“Focus on being productive instead of busy.”",
-  "“The only way to get things done is to be focused on getting things done.”",
-  "“The successful warrior is the average man, with laser-like focus.”",
-  "“The key to success is to focus our conscious mind on things we desire, not things we fear.”",
-  "“The successful person has the habit of doing the things failures don't like to do.”",
-  "“The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.”",
-  "“The successful man is the one who finds out what is the matter with his business before his competitors do.”"
+  "“The quality of your attention determines the quality of your life.”",
+  "“Most people wait for motivation. Builders create systems.”",
+  "“Peace often comes after difficult decisions, not easy ones.”",
+  "“Every day you repeat a habit, you reinforce an identity.”",
+  "“Silence and solitude reveal what distraction hides.”",
+  "“Consistency looks small daily but massive yearly.”",
+  "“A calm mind can outperform a chaotic talented one.”",
+  "“You become stronger every time you refuse unnecessary comfort.”",
+  "“Focus is less about intensity and more about elimination.”",
+  "“The person you become is shaped by what you tolerate daily.”"
 ];
 
 window.addEventListener("scroll", () => {
